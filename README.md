@@ -1,2 +1,6 @@
 # statue
+
+# sokkel
+https://nl.wikipedia.org/wiki/Sokkel_(beeld)
+
 doktor robin in aktion
